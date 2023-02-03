@@ -1,0 +1,175 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.nav-body {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  padding: 10px 25px;
+  box-shadow: 0 2px 2px -2px rgba(0, 0, 0, .2);
+}
+
+img {
+  height: 27px;
+  width: 27px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  margin-left: 30px;
+}
+
+
+
+.left-side {
+  display: flex;
+  align-items: center;
+}
+
+
+
+.right-side {
+  display: flex;
+  align-items: center;
+}
+
+.banner {
+  background-image: url(./images/banner.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px;
+}
+
+.section2 {
+  background-image: url(./images/section2-image.png);
+  height: 500px;
+  background-size: cover;
+}
+
+.left {
+  background-image: url(./images/section3-left-image2.jpg);
+  width: 49.5%;
+  height: 500px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+
+.right {
+  background-image: url(./images/section3-right-image.jpg);
+  width: 49.5%;
+  height: 600px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.section3 {
+  display: flex;
+  justify-content: space-between;
+  background-color: #d6d6d8;
+  height: 500px;
+}
+
+.section4 {
+  display: flex;
+  justify-content: space-between;
+  background-color: #d6d6d8;
+}
+
+.sec4-1 {
+  background-image: url(./images/section4-image1.jpg);
+  width: 50%;
+  height: 500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: antiquewhite;
+}
+
+.sec4-2 {
+  background-image: url(./images/section4-image2.jpg);
+  width: 24%;
+  height: 500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+
+.sec4-3 {
+  background-color: white;
+  width: 24%;
+  height: 500px;
+}
+
+
+.sec4-img {
+  width: 70%;
+  height: 200px;
+
+}
+
+.sec4-img img {
+  width: 100%;
+  height: 100%;
+}
+
+.section5 {
+  background-image: url(./images/section5-image.jpg);
+  width: 100%;
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  text-align: center;
+}
+
+.sec5-words {
+  padding-top: 100px;
+  padding-left: 500px;
+
+}
+
+
+.section6 {
+  background-color: #191919;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.sec6-1 {
+  width: 18%;
+}
+
+.sec6-2 {
+  width: 15%;
+}
+
+.sec6-3 {
+  width: 15%;
+}
+
+.sec6-4 {
+  width: 15%;
+}
+
+.sec6-5 {
+  width: 15&;
+}
+
+.sec6-img{
+width: 6%;
+display: flex;
+}
+
+.sec6-img div{
+  background-color: white;
+}
+
+
+
+
+
